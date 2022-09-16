@@ -22,4 +22,4 @@ Bootstrap Dökümantasyonu'nu iyi inceleyip farklı elementleri denemeye çalı�
 
 ---
 
-<img width="909" alt="hw1" src="https://user-images.githubusercontent.com/98273180/190830260-78a83ab5-b58f-46a3-8c09-24bd003a980d.png">
+<img width="912" alt="hw1" src="https://user-images.githubusercontent.com/98273180/190830314-28e3bc7a-f80f-48f1-bab6-9ccf3ffc9650.png">
